@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Omnium.Nswag.Client", "Omnium.Nswag.Client\Omnium.Nswag.Client.csproj", "{97C7A6D8-06E6-4D1A-8433-7088667B681C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApi", "TestApi\TestApi.csproj", "{FEC185FA-3667-47A0-A928-F91433925062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C7A6D8-06E6-4D1A-8433-7088667B681C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C7A6D8-06E6-4D1A-8433-7088667B681C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC185FA-3667-47A0-A928-F91433925062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC185FA-3667-47A0-A928-F91433925062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC185FA-3667-47A0-A928-F91433925062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC185FA-3667-47A0-A928-F91433925062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
